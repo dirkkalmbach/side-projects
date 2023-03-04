@@ -1,4 +1,4 @@
-# site-projects
+# side-projects
 
 ```
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|  
